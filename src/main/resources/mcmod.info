@@ -1,0 +1,16 @@
+[
+{
+  "modid": "permod",
+  "name": "Per Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://a01.me",
+  "updateUrl": "",
+  "authorList": ["yuu"],
+  "credits": "bohky",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
